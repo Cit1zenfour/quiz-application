@@ -1,0 +1,11 @@
+.Layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(90deg, #9370DB 0%, #DEB887 70%);
+}
+
+.Layout main {
+    display: flex;
+    flex-direction: column;
+}
